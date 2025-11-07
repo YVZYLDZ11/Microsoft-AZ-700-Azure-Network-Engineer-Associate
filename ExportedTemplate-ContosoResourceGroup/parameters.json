@@ -1,0 +1,54 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_testvm1_name": {
+            "value": null
+        },
+        "virtualMachines_testvm2_name": {
+            "value": null
+        },
+        "privateDnsZones_contoso_com_name": {
+            "value": null
+        },
+        "virtualNetworks_ResearchVnet_name": {
+            "value": null
+        },
+        "networkInterfaces_testvm1_nic_name": {
+            "value": null
+        },
+        "networkInterfaces_testvm2_nic_name": {
+            "value": null
+        },
+        "publicIPAddresses_testvm1_pip_name": {
+            "value": null
+        },
+        "publicIPAddresses_testvm2_pip_name": {
+            "value": null
+        },
+        "virtualMachines_ManufacturingVM_name": {
+            "value": null
+        },
+        "virtualNetworks_CoreServicesVnet_name": {
+            "value": null
+        },
+        "networkSecurityGroups_testvm1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_testvm2_nsg_name": {
+            "value": null
+        },
+        "virtualNetworks_ManufacturingVnet_name": {
+            "value": null
+        },
+        "publicIPAddresses_ManufacturingVM_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_ManufacturingVM_nic_name": {
+            "value": null
+        },
+        "networkSecurityGroups_ManufacturingVM_nsg_name": {
+            "value": null
+        }
+    }
+}
