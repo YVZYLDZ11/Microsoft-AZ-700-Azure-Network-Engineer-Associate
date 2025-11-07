@@ -1,1 +1,3 @@
 # Microsoft-AZ-700-Azure-Network-Engineer-Associate
+
+LABS: https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions
