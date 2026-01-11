@@ -53,6 +53,3 @@ Below is the list of key networking topics and labs covering the official exam o
 
 ## 👨‍💻 Author
 YAVUZ YILDIZ *Aspiring Cloud Architect | Azure Network Specialist* https://www.linkedin.com/in/yavuzyildizyz/
-**[Senin Adın]**
-*Aspiring Cloud Architect | Azure Network Specialist*
-[LinkedIn Profil Linkin]
