@@ -28,7 +28,7 @@ This repository documents my hands-on preparation for the **Microsoft Certified:
 * **Security:** Applied Network Security Groups (NSGs) and validated traffic flow.
 * **Automation:** Deployed IIS Web Servers via 'Run Command' scripts without manual login.
 
-**📂 [Click here to view the ARM Templates & Topology Diagram](https://github.com/YVZYLDZ11/Microsoft-AZ-700-Azure-Network-Engineer-Associate/tree/Software/LABS/01-Hub-Spoke-Hybrid-Network))**
+**📂 [Click here to view the ARM Templates & Topology Diagram](https://github.com/YVZYLDZ11/Microsoft-AZ-700-Azure-Network-Engineer-Associate/tree/Software/LABS/01-Hub-Spoke-Hybrid-Network)**
 
 ---
 
