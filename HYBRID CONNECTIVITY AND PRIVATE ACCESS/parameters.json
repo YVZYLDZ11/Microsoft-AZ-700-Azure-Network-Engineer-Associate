@@ -1,0 +1,60 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "servers_sql_server_yavuz_2026_name": {
+            "value": null
+        },
+        "virtualNetworks_VNet_Azure_name": {
+            "value": null
+        },
+        "virtualNetworks_VNet_OnPrem_name": {
+            "value": null
+        },
+        "privateEndpoints_pe_sql_azure_name": {
+            "value": null
+        },
+        "virtualMachines_VM_OnPrem_Agent_name": {
+            "value": null
+        },
+        "connections_Link_Azure_to_Office_name": {
+            "value": null
+        },
+        "connections_Link_Office_to_Azure_name": {
+            "value": null
+        },
+        "localNetworkGateways_LNG_to_Azure_name": {
+            "value": null
+        },
+        "publicIPAddresses_pip_vpngw_azure_name": {
+            "value": null
+        },
+        "localNetworkGateways_LNG_to_OnPrem_name": {
+            "value": null
+        },
+        "publicIPAddresses_pip_vpngw_onprem_name": {
+            "value": null
+        },
+        "virtualNetworkGateways_VpnGw_Azure_name": {
+            "value": null
+        },
+        "virtualNetworkGateways_VpnGw_OnPrem_name": {
+            "value": null
+        },
+        "publicIPAddresses_VM_OnPrem_Agent_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_onprem_agent117_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM_OnPrem_Agent_nsg_name": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_database_windows_net_name": {
+            "value": null
+        }
+    }
+}
